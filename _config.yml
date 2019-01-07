@@ -7,11 +7,8 @@
 url: "https://victoriastarnes.github.io"
 baseurl: ""
 
-<<<<<<< HEAD
-=======
 bigimage: "C:/Users/Victoria Starnes/Documents/GitHub/victoriastarnes.github.io/img/bluff lake.png" : "Bluff Lake December 2018"
 
->>>>>>> 692fb8935de2fe0a21dca14627fd18ba1b78d751
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
