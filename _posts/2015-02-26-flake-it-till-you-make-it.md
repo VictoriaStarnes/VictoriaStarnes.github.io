@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bluff Lake Visit
-subtitle:I snapped this picture on my last visit to Bluff Lake! I 
+subtitle:I snapped this picture on my last visit to Bluff Lake!
 bigimg: /img/bluff lake.png
 tags: [bluff lake]
 ---
