@@ -7,9 +7,6 @@
 url: "https://victoriastarnes.github.io"
 baseurl: ""
 
-bigimg: 
-  -"C:/Users/Victoria Starnes/Documents/GitHub/victoriastarnes.github.io/img/bluff lake"
-
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -27,6 +24,7 @@ description: Project and personal webpage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Resources:
     
 # Image to show in the navigation bar - image must be a square (width = height)
