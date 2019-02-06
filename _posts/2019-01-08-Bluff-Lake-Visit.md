@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copy and past the titel
+title: Bluff Lake Visit
 bigimg: # 
 ---
 
